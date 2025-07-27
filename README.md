@@ -11,6 +11,8 @@ This project uses YOLOv8 for classifying whether eyes are open or closed, with r
 Make sure you download the Dlib shape predictor model:
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
+Download the images dataset from the following link:
+https://drive.google.com/drive/folders/1jMjBGfs2GQDoiVwgxizsX6op6001PE_8?usp=sharing
 ## Installation
 ```bash
 pip install -r requirements.txt
